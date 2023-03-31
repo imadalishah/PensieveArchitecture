@@ -1,12 +1,13 @@
 # PensieveArchitecture
-Implementation of original Neural Adaptive Video Streaming with Pensieve (SIGCOMM '17) web.mit.edu/pensieve/
+Implementation of [original](web.mit.edu/pensieve/) Neural Adaptive Video Streaming with Pensieve (SIGCOMM '17)
 
-Original Contributors:
-https://github.com/hongzimao/pensieve
-https://github.com/ahmad-hl/pensieve-py38
+**Original Contributors:**
+[Hongzi Mao](https://github.com/hongzimao/pensieve)
+[Ahmad ALHILAL](https://github.com/ahmad-hl/pensieve-py38)
 
 # **Implementation of Original Pensieve Architecture in Python3+ and on Google Colab**
-Thanks to 
+
+Steps are written below for better understanding of the notebook working. However, `runme.ipynb` is available to be run directly for ease.
 
 To run the Pensieve Architecture and reproduce the results of the papers on Google Colab, follow these steps:
 1. Open a new notebook on Google Colab.
