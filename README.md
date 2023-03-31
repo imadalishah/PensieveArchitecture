@@ -8,7 +8,7 @@ Implementation of [original](web.mit.edu/pensieve/) paper : Neural Adaptive Vide
 
 # **Implementation of Original Pensieve Architecture in Python3+ and on Google Colab**
 
-Steps are written below for better understanding of the notebook working. However, [Notebook](https://colab.research.google.com/drive/1My3p3JtomCWsuwSGKn4wbSk1y4buWd7E#scrollTo=15q6cQzKsscF) is available to be run directly for ease.
+Steps are written below for better understanding of the notebook working. However, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1My3p3JtomCWsuwSGKn4wbSk1y4buWd7E#scrollTo=15q6cQzKsscF) is available to be run directly for ease.
 
 **To run the Pensieve Architecture and reproduce the results of the papers on Google Colab, follow these steps:**
 1. Open a new notebook on Google Colab.
