@@ -1,5 +1,5 @@
-# PensieveArchitecture
-Implementation of [original](web.mit.edu/pensieve/) Neural Adaptive Video Streaming with Pensieve (SIGCOMM '17)
+# Neural Adaptive Video Streaming with Pensieve
+Implementation of [original](web.mit.edu/pensieve/) paper : Neural Adaptive Video Streaming with Pensieve (SIGCOMM '17)
 
 **Original Contributors:**
 [Hongzi Mao](https://github.com/hongzimao/pensieve)
