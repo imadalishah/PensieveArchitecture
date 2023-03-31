@@ -5,11 +5,12 @@ Implementation of [original](web.mit.edu/pensieve/) paper : Neural Adaptive Vide
 [Hongzi Mao](https://github.com/hongzimao/pensieve)
 [Ahmad ALHILAL](https://github.com/ahmad-hl/pensieve-py38)
 
+
 # **Implementation of Original Pensieve Architecture in Python3+ and on Google Colab**
 
 Steps are written below for better understanding of the notebook working. However, `runme.ipynb` is available to be run directly for ease.
 
-To run the Pensieve Architecture and reproduce the results of the papers on Google Colab, follow these steps:
+**To run the Pensieve Architecture and reproduce the results of the papers on Google Colab, follow these steps:**
 1. Open a new notebook on Google Colab.
 2. Set the runtime type to Python 3.8.
 3. Install the required dependencies using the following command:
